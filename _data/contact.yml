@@ -2,17 +2,13 @@
 
 - type: github
   icon: "fab fa-github"
-
+  url:  'https://github.com/T3M000/' 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
-
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
-
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+  url:  'https://x.com/AhmedTammam183/' 
+- type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/in/ahmed-tammam20/'  
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
